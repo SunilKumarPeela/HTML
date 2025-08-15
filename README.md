@@ -1,15 +1,17 @@
-# 🗽 FashionBlog — Everyday with Isa
+# 🗽 FashionBlog — *Everyday with Isa*
 
-A simple, single-page **HTML** blog about New York Fashion Week (NYFW).  
-It demonstrates headings, images, an external link, an internal anchor to the contact section, and a related-content list.
-
-## 🔗 Links
-- **Repository:** https://github.com/SunilKumarPeela/FashionBlog/tree/main
-- **Single-window Preview (code left • site right):**  
-  [![Open in CodeSandbox](https://img.shields.io/badge/Open%20in-CodeSandbox-black)](https://codesandbox.io/s/github/SunilKumarPeela/FashionBlog?file=/index.html)
-- *(Optional)* StackBlitz:  
-  [![Open in StackBlitz](https://img.shields.io/badge/Open%20in-StackBlitz-blue)](https://stackblitz.com/github/SunilKumarPeela/FashionBlog?file=index.html)
+A clean, single-page **HTML** blog about **New York Fashion Week (NYFW)**.  
+Shows headings, images, an external link, an in-page jump to the contact section, and a related-content list.
 
 ---
 
-## 👀 What the page displays (snapshot)
+## 🔗 Quick Links
+- **Repository:** https://github.com/SunilKumarPeela/FashionBlog/tree/main
+
+- **View in CodeSandbox (code left • preview right — split view):**  
+  👉 **Open Split Preview:** https://codesandbox.io/embed/github/SunilKumarPeela/FashionBlog?file=/index.html&view=split  
+  *(If you prefer the full editor UI: https://codesandbox.io/s/github/SunilKumarPeela/FashionBlog?file=/index.html and then Layout → Preview Right)*
+
+---
+
+## ✨ What You’ll See (page content)
