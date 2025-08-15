@@ -17,15 +17,7 @@ Perfect for learning basic web page structure and presentation.
 ---
 # 🍷 Aguillar Family Wine Festival — Schedule Page  
 
-Aguillar Family Wine Festival is a clean single-page HTML project.  
-Designed to present the festival **schedule** in a simple, readable table.  
-Uses semantic HTML (`<header>`, `<table>`, `<footer>`) for clear structure.  
-Displays a timeline with **Time** and **Event** columns using `<thead>` and `<tbody>`.  
-Styled via external CSS files (`reset.css`, `style.css`) for consistent visuals.  
-Integrates Google Fonts (**Oswald**) for elegant headings and typography.  
-Keeps content lightweight and accessible—perfect for beginners.  
-Easy to extend with more rows or sections (e.g., speakers, venues).  
-Ideal for learning how to build an **HTML event schedule** page.
+Aguillar Family Wine Festival is a clean single-page HTML project.  Designed to present the festival **schedule** in a simple, readable table.  Uses semantic HTML (`<header>`, `<table>`, `<footer>`) for clear structure.  Displays a timeline with **Time** and **Event** columns using `<thead>` and `<tbody>`.  Styled via external CSS files (`reset.css`, `style.css`) for consistent visuals.  Integrates Google Fonts (**Oswald**) for elegant headings and typography.  Keeps content lightweight and accessible—perfect for beginners.  Easy to extend with more rows or sections (e.g., speakers, venues).  Ideal for learning how to build an **HTML event schedule** page.
 
 [![Open in CodeSandbox](https://img.shields.io/badge/Open%20in-CodeSandbox-black?style=for-the-badge&logo=codesandbox)](https://codesandbox.io/p/sandbox/github/SunilKumarPeela/AguillarWineFestival)  
 [![Click Me to View More](https://img.shields.io/badge/Click%20Me%20to%20View%20More-blue?style=for-the-badge)](https://github.com/SunilKumarPeela/AguillarWineFestival)  
