@@ -1,17 +1,16 @@
-# 🗽 FashionBlog — *Everyday with Isa*
+# 🗞️ FashionBlog — Everyday with Isa
+A tight, single-page **HTML** feature on **NYFW**: hero photo, two quick sections, related reads, and a contact footnote—clean, fast, and to the point.
 
-A clean, single-page **HTML** blog about **New York Fashion Week (NYFW)**.  
-Shows headings, images, an external link, an in-page jump to the contact section, and a related-content list.
+[![Repository](https://img.shields.io/badge/Repo-FashionBlog-181717?logo=github&logoColor=white)](https://github.com/SunilKumarPeela/FashionBlog/tree/main)
+[![Split Preview](https://img.shields.io/badge/View-Split_Preview-000?logo=codesandbox)](https://codesandbox.io/embed/github/SunilKumarPeela/FashionBlog?file=/index.html&view=split&hidedevtools=1&fontsize=14)
+[![Open Editor](https://img.shields.io/badge/Edit-CodeSandbox-black?logo=codesandbox)](https://codesandbox.io/s/github/SunilKumarPeela/FashionBlog?file=/index.html)
 
----
-
-## 🔗 Quick Links
-- **Repository:** https://github.com/SunilKumarPeela/FashionBlog/tree/main
-
-- **View in CodeSandbox (code left • preview right — split view):**  
-  👉 **Open Split Preview:** https://codesandbox.io/embed/github/SunilKumarPeela/FashionBlog?file=/index.html&view=split  
-  *(If you prefer the full editor UI: https://codesandbox.io/s/github/SunilKumarPeela/FashionBlog?file=/index.html and then Layout → Preview Right)*
-
----
-
-## ✨ What You’ll See (page content)
+| Code (excerpt) | Live (mini preview → click for split view) |
+|---|---|
+|```html
+<!doctype html><html lang="en">
+<meta charset="utf-8"><title>Everyday with Isa — NYFW</title>
+<link rel="stylesheet" href="styles.css">
+<h3>by Isabelle Rodriguez | 1 day ago</h3>
+<h1>An Insider’s Guide to NYFW</h1>
+```|[![Mini preview](https://content.codecademy.com/courses/learn-html/elements-and-structure/image-one.jpeg)](https://codesandbox.io/embed/github/SunilKumarPeela/FashionBlog?file=/index.html&view=split&hidedevtools=1&fontsize=14)|
