@@ -24,3 +24,19 @@ Aguillar Family Wine Festival is a clean single-page HTML project.  Designed to 
 
 ---
 
+
+# 🗽 New York City Blog — Semantic HTML Project
+
+New York City Blog is a clean single-page HTML project.  
+Designed to share insights and attractions of **The Big Apple** in a structured, accessible layout.  
+Uses semantic HTML (`<header>`, `<main>`, `<section>`, `<article>`, `<aside>`, `<figure>`, `<footer>`) for clear organization.  
+Showcases NYC’s history, landmarks, and culture with descriptive text, images, video, and audio.  
+Includes a dedicated **Blog** section, **Media** gallery, and **About** footer with contact info.  
+Styled via an external CSS file (`style.css`) for polished visuals.  
+Keeps content lightweight and beginner-friendly—perfect for practicing semantic markup.  
+Easily extendable with more sections (e.g., food guides, travel tips, event highlights).  
+Ideal for learning how to build a **semantic HTML blog page** with multimedia support.
+
+[![Open in CodeSandbox](https://img.shields.io/badge/Open%20in-CodeSandbox-black?style=for-the-badge&logo=codesandbox)](https://codesandbox.io/p/sandbox/github/SunilKumarPeela/SymanticHTML)  
+[![Click Me to View More](https://img.shields.io/badge/Click%20Me%20to%20View%20More-blue?style=for-the-badge)](https://github.com/SunilKumarPeela/SymanticHTML)
+
