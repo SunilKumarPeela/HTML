@@ -5,9 +5,6 @@ A stylish **NYFW guide** built with pure HTML, featuring headings, images, links
 
 [![View More](https://img.shields.io/badge/Click%20Me%20to%20View%20More-blue?style=for-the-badge)](https://github.com/SunilKumarPeela/FashionBlog/tree/main)
 
-<img src="https://github.com/SunilKumarPeela/WebImages/blob/main/Imagehtml.png?raw=true" alt="Fashion Blog Preview" style="width:100%;max-width:900px;display:block;margin:auto;"/>
-
-
 ---
 
 
