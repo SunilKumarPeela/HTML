@@ -74,3 +74,25 @@ Davie’s Burgers is a clean single-page HTML & CSS project. Designed to practic
 [![Click Me to View More](https://img.shields.io/badge/Click%20Me%20to%20View%20More-blue?style=for-the-badge)](https://github.com/SunilKumarPeela/SingaporeHotelsBreadcrum/blob/main/README.md)  
 
 ---
+
+# 🧭 Singapore Hotels — Breadcrumb & Cards  
+
+<table>
+<tr>
+<td width="55%">
+
+**Singapore Hotels — Breadcrumb & Cards** is a clean multi-section HTML & CSS project. Built to practice and demonstrate **navigation styling** with a **breadcrumb UI**, **pseudo-elements** (`::before`, `::after`), and the CSS **border-triangle trick** for arrows. Uses semantic HTML (`<header>`, `<nav>`, `<section>`, `<ul>`, `<li>`, `<footer>`) for clear structure and features a simple **jumbotron header**, styled **hotel cards** with flexbox, and interactive **Book Now** buttons. Applies **Google Fonts** for custom typography, consistent **hover & focus states**, and a small **media query** for responsive stacking on mobile. Lightweight and accessible—ideal for mastering **breadcrumb navigation** and **card layout** design patterns.  
+
+[![Open in CodeSandbox](https://img.shields.io/badge/Open%20in-CodeSandbox-black?style=for-the-badge&logo=codesandbox)](https://codesandbox.io/p/sandbox/github/SunilKumarPeela/SingaporeHotelsBreadcrum)  
+
+[![Click Me to View More](https://img.shields.io/badge/Click%20Me%20to%20View%20More-blue?style=for-the-badge)](https://github.com/SunilKumarPeela/SingaporeHotelsBreadcrum/blob/main/README.md)  
+
+</td>
+<td width="45%">
+
+<img src="https://content.codecademy.com/courses/ui-breadcrumbs/raffles.jpg" alt="Project Preview" />
+
+</td>
+</tr>
+</table>
+
