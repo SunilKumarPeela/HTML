@@ -10,7 +10,7 @@
 
 [![Click Me to View More](https://img.shields.io/badge/Click%20Me%20to%20View%20More-blue?style=for-the-badge)](https://github.com/SunilKumarPeela/FashionBlog/tree/main)  
 
-[![Live Preview](https://img.shields.io/badge/View%20Live-green?style=for-the-badge)](https://github.com/SunilKumarPeela/FashionBlog/settings/pages)  
+[![Live Preview](https://img.shields.io/badge/View%20Live-green?style=for-the-badge)](https://sunilkumarpeela.github.io/FashionBlog/)  
 
 </td>
 <td width="45%">
