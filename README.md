@@ -57,21 +57,26 @@ Davie’s Burgers is a clean single-page HTML & CSS project. Designed to practic
 
 # ✍️ Typography — Morocco Travel Journal  
 
+<table>
+<tr>
+<td width="55%">
+
 **Typography — Morocco Travel Journal** is a clean single-page HTML & CSS project. Built to practice and demonstrate **typography & readability** using **font pairing**, **responsive type scale**, and **measure (65–75ch)**. Uses semantic HTML (`<header>`, `<nav>`, `<main>`, `<figure>`, `<figcaption>`, `<blockquote>`, `<footer>`) for clear structure and features a full-bleed **hero banner**, responsive **drop cap** styling, and well-spaced journal paragraphs with captions and pull quotes. Applies **Google Fonts** pairing (**Abril Fatface** for display, **Merriweather** for body, **Open Sans** for UI), consistent **line-height & vertical rhythm**, and a small **media query** for mobile. Styled via external stylesheets (`reset.css`, `style.css`). Lightweight and accessible—ideal for mastering web **type hierarchy** and **readability**.  
 
-[![Open in CodeSandbox](https://img.shields.io/badge/Open%20in-CodeSandbox-black?style=for-the-badge&logo=codesandbox)](https://codesandbox.io/p/sandbox/github/SunilKumarPeela/jornalcss)
+[![Open in CodeSandbox](https://img.shields.io/badge/Open%20in-CodeSandbox-black?style=for-the-badge&logo=codesandbox)](https://codesandbox.io/p/sandbox/github/SunilKumarPeela/jornalcss)  
 
 [![Click Me to View More](https://img.shields.io/badge/Click%20Me%20to%20View%20More-blue?style=for-the-badge)](https://github.com/SunilKumarPeela/JornalCSS)  
 
----
+</td>
+<td width="45%">
 
-# 🧭 Singapore Hotels — Breadcrumb & Cards  
+<img src="https://content.codecademy.com/courses/freelance-1/unit-6/journal.jpg" alt="Project Preview" />
 
-**Singapore Hotels — Breadcrumb & Cards** is a clean multi-section HTML & CSS project. Built to practice and demonstrate **navigation styling** with a **breadcrumb UI**, **pseudo-elements** (`::before`, `::after`), and the CSS **border-triangle trick** for arrows. Uses semantic HTML (`<header>`, `<nav>`, `<section>`, `<ul>`, `<li>`, `<footer>`) for clear structure and features a simple **jumbotron header**, styled **hotel cards** with flexbox, and interactive **Book Now** buttons. Applies **Google Fonts** for custom typography, consistent **hover & focus states**, and a small **media query** for responsive stacking on mobile. Lightweight and accessible—ideal for mastering **breadcrumb navigation** and **card layout** design patterns.  
+</td>
+</tr>
+</table>
 
-[![Open in CodeSandbox](https://img.shields.io/badge/Open%20in-CodeSandbox-black?style=for-the-badge&logo=codesandbox)](https://codesandbox.io/p/sandbox/github/SunilKumarPeela/SingaporeHotelsBreadcrum)
 
-[![Click Me to View More](https://img.shields.io/badge/Click%20Me%20to%20View%20More-blue?style=for-the-badge)](https://github.com/SunilKumarPeela/SingaporeHotelsBreadcrum/blob/main/README.md)  
 
 ---
 
