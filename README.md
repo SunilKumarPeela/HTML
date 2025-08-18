@@ -71,6 +71,6 @@ Davie’s Burgers is a clean single-page HTML & CSS project. Designed to practic
 
 [![Open in CodeSandbox](https://img.shields.io/badge/Open%20in-CodeSandbox-black?style=for-the-badge&logo=codesandbox)](https://codesandbox.io/p/sandbox/github/SunilKumarPeela/SingaporeHotelsBreadcrum)
 
-[![Click Me to View More](https://github.com/SunilKumarPeela/SingaporeHotelsBreadcrum/blob/main/README.md)  
+[![Click Me to View More](https://img.shields.io/badge/Click%20Me%20to%20View%20More-blue?style=for-the-badge)](https://github.com/SunilKumarPeela/SingaporeHotelsBreadcrum/blob/main/README.md)  
 
 ---
