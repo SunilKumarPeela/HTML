@@ -188,6 +188,29 @@
 </table>
 ---
 
+# 📰 Headlines — News Landing Page   
 
+<table>
+<tr>
+<td width="55%">
+
+**Headlines — News Landing Page** is a clean single-page HTML & CSS project. Built to practice and demonstrate **top navigation**, an editorial **jumbotron hero**, a punchy **banner strip**, and a three-column **photo grid** using flexbox. Uses semantic HTML (`<header>`, `<nav>`, `<main>`, `<section>`, `<footer>`) for clear structure and in-page anchors (`#expertise`, `#footer`) for quick jumps. Applies **Google Fonts (Libre Baskerville)** for a newsroom vibe, consistent **hover states**, and a small **media query** for responsive stacking on mobile. Lightweight and accessible—perfect for mastering **hero sections**, **nav bars**, and **responsive image grids**.  
+
+[![Open in CodeSandbox](https://img.shields.io/badge/Open%20in-CodeSandbox-black?style=for-the-badge&logo=codesandbox)](https://codesandbox.io/p/sandbox/github/SunilKumarPeela/NewsBanner)  
+
+[![Click Me to View More](https://img.shields.io/badge/Click%20Me%20to%20View%20More-blue?style=for-the-badge)](https://github.com/SunilKumarPeela/NewsBanner)  
+
+[![Live Preview](https://img.shields.io/badge/View%20Live-green?style=for-the-badge)](https://sunilkumarpeela.github.io/NewsBanner/)  
+
+</td>
+<td width="45%">
+
+<img src="https://github.com/SunilKumarPeela/WebImages/blob/main/News.png" />
+
+
+</td>
+</tr>
+</table>
+---
 
 
