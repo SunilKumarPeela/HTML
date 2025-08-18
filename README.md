@@ -101,10 +101,13 @@ Davie’s Burgers is a clean single-page HTML & CSS project. Designed to practic
 
 [![Click Me to View More](https://img.shields.io/badge/Click%20Me%20to%20View%20More-blue?style=for-the-badge)](https://github.com/SunilKumarPeela/SingaporeHotelsBreadcrum/blob/main/README.md)  
 
+[![Live Preview](https://img.shields.io/badge/View%20Live-green?style=for-the-badge)](https://sunilkumarpeela.github.io/SingaporeHotelsBreadcrum/)  
+
 </td>
 <td width="45%">
 
-<img src="https://content.codecademy.com/courses/ui-breadcrumbs/raffles.jpg" alt="Project Preview" />
+<img src="https://github.com/SunilKumarPeela/WebImages/blob/main/hotelssingapore.png" />
+
 
 </td>
 </tr>
