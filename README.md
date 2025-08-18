@@ -36,11 +36,27 @@ New York City Blog is a clean single-page HTML project. Designed to share insigh
 
 # 🍔 Davie’s Burgers — Box Model Project  
 
-Davie’s Burgers is a clean single-page HTML & CSS project. Designed to practice and demonstrate the **CSS Box Model** by styling a fictional restaurant’s menu page. Uses semantic HTML (`<nav>`, `<div>`, `<ul>`) for clear structure and applies **height, width, padding, border, and margin** to refine layout and spacing. Features a hero image header, descriptive content section, an interactive **“Order Now” button** with hover states, and a nutrition facts list styled with inline-block elements. Styled via external CSS files (`reset.css`, `style.css`) for consistent visuals. Integrates Google Fonts (**Roboto**, **Oswald**) for clean typography. Lightweight and accessible—ideal for learning box model fundamentals in a practical way.  
+<table>
+<tr>
+<td width="55%">
 
-[![Open in CodeSandbox](https://img.shields.io/badge/Open%20in-CodeSandbox-black?style=for-the-badge&logo=codesandbox)](https://codesandbox.io/p/sandbox/github/SunilKumarPeela/The-Box-Model-Davie-s-Burgers)
+**Davie’s Burgers** is a clean single-page HTML & CSS project. Designed to practice and demonstrate the **CSS Box Model** by styling a fictional restaurant’s menu page. Uses semantic HTML (`<nav>`, `<div>`, `<ul>`) for clear structure and applies **height, width, padding, border, and margin** to refine layout and spacing. Features a hero image header, descriptive content section, an interactive **“Order Now” button** with hover states, and a nutrition facts list styled with inline-block elements. Styled via external CSS files (`reset.css`, `style.css`) for consistent visuals. Integrates Google Fonts (**Roboto**, **Oswald**) for clean typography. Lightweight and accessible—ideal for learning box model fundamentals in a practical way.  
+
+[![Open in CodeSandbox](https://img.shields.io/badge/Open%20in-CodeSandbox-black?style=for-the-badge&logo=codesandbox)](https://codesandbox.io/p/sandbox/github/SunilKumarPeela/The-Box-Model-Davie-s-Burgers)  
 
 [![Click Me to View More](https://img.shields.io/badge/Click%20Me%20to%20View%20More-blue?style=for-the-badge)](https://github.com/SunilKumarPeela/The-Box-Model-Davie-s-Burgers/tree/main)  
+
+[![Live Preview](https://img.shields.io/badge/View%20Live-green?style=for-the-badge)](https://sunilkumarpeela.github.io/The-Box-Model-Davie-s-Burgers/)  
+
+</td>
+<td width="45%">
+
+<img src="https://github.com/SunilKumarPeela/WebImages/blob/main/Burger.png" />
+
+</td>
+</tr>
+</table>
+
 
 
 ---
