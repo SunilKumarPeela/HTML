@@ -72,6 +72,9 @@ Davie’s Burgers is a clean single-page HTML & CSS project. Designed to practic
 
 <img src="https://content.codecademy.com/courses/freelance-1/unit-6/journal.jpg" alt="Project Preview" />
 [![Live Preview](https://img.shields.io/badge/View%20Live-green?style=for-the-badge)](https://sunilkumarpeela.github.io/JornalCSS/)  
+
+<img src="screenshot.png" alt="Project Preview" />
+
 </td>
 </tr>
 </table>
