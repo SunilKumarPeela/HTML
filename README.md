@@ -69,15 +69,21 @@ Davie’s Burgers is a clean single-page HTML & CSS project. Designed to practic
 
 </td>
 <td width="45%">
+<div align="center" style="position: relative; display: inline-block;">
 
-<p align="center">
-  <a href="https://sunilkumarpeela.github.io/JornalCSS/">
-    <img src="https://img.shields.io/badge/View%20Live-green?style=for-the-badge" alt="Live Preview" />
+  <!-- Your image -->
+  <img src="https://github.com/SunilKumarPeela/WebImages/blob/main/journal.jpeg.png" width="600"/>
+
+  <!-- Overlay button -->
+  <a href="https://sunilkumarpeela.github.io/JornalCSS/" 
+     style="position: absolute; top: 50%; left: 50%; 
+            transform: translate(-50%, -50%);
+            text-decoration: none;">
+    <img src="https://img.shields.io/badge/View%20Live-green?style=for-the-badge" alt="Live Preview"/>
   </a>
-</p>
 
+</div>
 
-<img src="https://github.com/SunilKumarPeela/WebImages/blob/main/journal.jpeg.png" />
 
 </td>
 </tr>
