@@ -47,11 +47,27 @@ Davie’s Burgers is a clean single-page HTML & CSS project. Designed to practic
 
 # 🏙️ Broadway Design — Landing Page  
 
+<table>
+<tr>
+<td width="55%">
+
 **Broadway Design** is a clean single-page HTML & CSS project. Built to practice and demonstrate **layout & positioning** using **`display`** and **`position`**. Uses semantic HTML (`<header>`, `<nav>`, `<main>`, `<section>`, `<footer>`) for clear structure and features a fixed **top navigation**, a full-bleed **jumbotron hero**, and a responsive three-column section (**Design • Develop • Deploy**). Applies **inline-block** columns, **background-size: cover**, and a small **media query** for mobile. Styled via an external stylesheet (`style.css`) and integrates **Google Fonts (Raleway)** for modern typography. Lightweight and accessible—ideal for mastering positioning patterns in a practical landing page.  
 
-[![Open in CodeSandbox](https://img.shields.io/badge/Open%20in-CodeSandbox-black?style=for-the-badge&logo=codesandbox)](https://codesandbox.io/p/sandbox/github/SunilKumarPeela/BroadwayPositionDisplay)
+[![Open in CodeSandbox](https://img.shields.io/badge/Open%20in-CodeSandbox-black?style=for-the-badge&logo=codesandbox)](https://codesandbox.io/p/sandbox/github/SunilKumarPeela/BroadwayPositionDisplay)  
 
 [![Click Me to View More](https://img.shields.io/badge/Click%20Me%20to%20View%20More-blue?style=for-the-badge)](https://github.com/SunilKumarPeela/BroadwayPositionDisplay)  
+
+[![Live Preview](https://img.shields.io/badge/View%20Live-green?style=for-the-badge)](https://sunilkumarpeela.github.io/BroadwayPositionDisplay/)  
+
+</td>
+<td width="45%">
+
+<img src="https://github.com/SunilKumarPeela/WebImages/blob/main/Broadway.png" />
+
+</td>
+</tr>
+</table>
+
 
 ---
 
