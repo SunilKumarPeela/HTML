@@ -70,6 +70,12 @@ Davie’s Burgers is a clean single-page HTML & CSS project. Designed to practic
 </td>
 <td width="45%">
 
+<p align="center">
+  <a href="https://sunilkumarpeela.github.io/JornalCSS/">
+    <img src="https://img.shields.io/badge/View%20Live-green?style=for-the-badge" alt="Live Preview" />
+  </a>
+</p>
+
 [![Live Preview](https://img.shields.io/badge/View%20Live-green?style=for-the-badge)](https://sunilkumarpeela.github.io/JornalCSS/) 
 
 
