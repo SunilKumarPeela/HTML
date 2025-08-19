@@ -212,5 +212,27 @@
 </tr>
 </table>
 ---
+# ✅ Flexbox To-Do — Weekly Planner App   
+
+<table>
+<tr>
+<td width="55%">
+
+**Flexbox To-Do — Weekly Planner App** is a clean single-page **HTML & CSS project**. Built to practice and demonstrate **Flexbox layout techniques**, including a structured **weekday task grid** and a complementary **reminders sidebar**. Uses semantic HTML (`<header>`, `<main>`, `<footer>`) for clear structure, with flexbox properties (`display: flex`, `flex-grow`, `justify-content`, `align-items`) to align days and tasks. Applies **Google Fonts (Quicksand & Rock Salt)** for a modern handwritten/planner aesthetic, responsive spacing, and simple zebra-striping for readability. Lightweight and accessible—perfect for mastering **row/column flex layouts**, **equal-height squares**, and **responsive sidebars**.  
+
+[![Open in CodeSandbox](https://img.shields.io/badge/Open%20in-CodeSandbox-black?style=for-the-badge&logo=codesandbox)](https://codesandbox.io/p/sandbox/github/SunilKumarPeela/FlexToDoList)  
+
+[![Click Me to View More](https://img.shields.io/badge/Click%20Me%20to%20View%20More-blue?style=for-the-badge)](https://github.com/SunilKumarPeela/FlexToDoList)  
+
+[![Live Preview](https://img.shields.io/badge/View%20Live-green?style=for-the-badge)](https://sunilkumarpeela.github.io/FlexToDoList/)  
+
+</td>
+<td width="45%">
+
+<img src="https://github.com/SunilKumarPeela/WebImages/blob/main/ToDoList.png" />
+
+</td>
+</tr>
+</table>
 
 
