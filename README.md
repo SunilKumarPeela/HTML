@@ -235,4 +235,28 @@
 </tr>
 </table>
 
+---
+
+# 🍵 Tea Cozy — Boutique Tea Shop Website   
+
+<table>
+<tr>
+<td width="55%">
+
+**Tea Cozy — Boutique Tea Shop Website** is a fictional single-page HTML & CSS project. Built to practice and demonstrate **flexbox storefront layouts**, including a sticky **navigation bar**, an inviting **hero section**, a clear **mission statement**, a **featured teas grid**, and a simple **locations/contact footer**. Uses semantic HTML (`<header>`, `<nav>`, `<main>`, `<section>`, `<footer>`) for structure, and flexbox properties (`display: flex`, `flex-wrap`, `justify-content`, `align-items`) for alignment. Applies **Google Fonts (Playfair Display & Lato)** for an elegant retail aesthetic, consistent **hover states**, and a small **media query** for mobile responsiveness. Lightweight and accessible—ideal for mastering **hero banners**, **responsive product grids**, and **sticky navbars**.  
+
+[![Open in CodeSandbox](https://img.shields.io/badge/Open%20in-CodeSandbox-black?style=for-the-badge&logo=codesandbox)](https://codesandbox.io/p/sandbox/github/SunilKumarPeela/TeaCozy)
+
+[![Click Me to View More](https://img.shields.io/badge/Click%20Me%20to%20View%20More-blue?style=for-the-badge)](https://github.com/SunilKumarPeela/TeaCozy)  
+
+[![Live Preview](https://img.shields.io/badge/View%20Live-green?style=for-the-badge)](https://sunilkumarpeela.github.io/TeaCozy/)  
+
+</td>
+<td width="45%">
+
+<img src="https://github.com/SunilKumarPeela/WebImages/blob/main/Teacozy1.png"/>
+
+</td>
+</tr>
+</table>
 
