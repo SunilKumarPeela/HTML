@@ -260,3 +260,30 @@
 </tr>
 </table>
 
+---
+
+# 🍽️ Savory — Recipe Grid Website   
+
+<table>
+<tr>
+<td width="55%">
+
+**Savory — Recipe Grid Website** is a fictional recipe showcase built with clean **HTML & CSS Grid**.  
+Designed to practice and demonstrate **grid-based layouts**, including a branded **header**, a **6-card recipe grid**, and a minimal **footer**. Uses semantic HTML (`<header>`, `<main>`, `<footer>`) for structure and **CSS Grid properties** (`grid-template-columns`, `grid-gap`, `grid-column`) for alignment and responsive control. Applies **Google Fonts (Poppins & Work Sans)** for a modern, food-magazine aesthetic. Lightweight and accessible—ideal for mastering **responsive grids**, **card components**, and **modern typography** in front-end projects.  
+
+[![Open in CodeSandbox](https://img.shields.io/badge/Open%20in-CodeSandbox-black?style=for-the-badge&logo=codesandbox)](https://codesandbox.io/p/sandbox/github/SunilKumarPeela/Savory-RecepieGridWebsite)  
+
+[![Click Me to View More](https://img.shields.io/badge/Click%20Me%20to%20View%20More-blue?style=for-the-badge)](https://github.com/SunilKumarPeela/Savory-RecepieGridWebsite)  
+
+[![Live Preview](https://img.shields.io/badge/View%20Live-green?style=for-the-badge)](https://sunilkumarpeela.github.io/Savory-RecepieGridWebsite/)  
+
+</td>
+<td width="45%">
+
+<img src="https://github.com/SunilKumarPeela/WebImages/blob/main/savoryrecpie.png"/>
+
+</td>
+</tr>
+</table>
+
+
